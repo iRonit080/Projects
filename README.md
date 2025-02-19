@@ -9,7 +9,7 @@
 # Excel
 | Project Name | Area | Description | Tools and Functions |  
 |---|---|---|---|
-[Rainfall in Haryana Analysis]-(https://github.com/iRonit080/Excel-Projects)|Data Analysis, Dashboard | Analysis of district-wise monthly average rainfall in Haryana for the year 2012 using Excel.| Pivot Table, Charts, Maps, Slicers, Data Validation
+[Rainfall in Haryana Analysis]- (https://github.com/iRonit080/Excel-Projects) |Data Analysis, Dashboard | Analysis of district-wise monthly average rainfall in Haryana for the year 2012 using Excel.| Pivot Table, Charts, Maps, Slicers, Data Validation
   
  
 
