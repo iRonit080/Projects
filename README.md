@@ -1,3 +1,4 @@
+
 # Data Analytics Portfolio
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ### Welcome to my Data Analytics Portfolio 🙌🏽
@@ -14,7 +15,8 @@
 # PowerBI
 | Project Name | Description | Tools 
 |---|---|---|
-| [Super Store sales Dashboard]-| superstore Sales data. The dashboard offers comprehensive insights into key performance indicators such as total sales, profit trends, shipping methods, sales by region, and category performance. Using dynamic visuals, this analysis helps businesses understand their sales trends and make data-driven decisions to optimize revenue and customer satisfaction.| Power Query Edito, DAX (Data Analysis Expressions), charts| 
+| [Super Store sales Dashboard]-| superstore Sales data. The dashboard offers comprehensive insights into key performance indicators such as total sales, profit trends, shipping methods, sales by region, and category performance. Using dynamic visuals, this analysis helps businesses understand their sales trends and make data-driven decisions to optimize revenue and customer satisfaction.| Power Query Edito, DAX (Data Analysis Expressions), charts|
+|[Madhav E-commerce Sales Dashboard]-| The Madhav E-commerce Sales Dashboard is designed to provide a comprehensive and interactive analysis of online sales across India. This Power BI dashboard helps track key business metrics such as total sales, revenue trends, order distribution, profit margins, sales by category, regional performance, and payment methods.| Charts, Power Query Editor,Filters & Slicers 
 
   
  
