@@ -8,5 +8,10 @@
 - [Python]( #python)
 # Excel
 | Project Name | Area | Description | Tools and Functions |  
+|---|---|---|---|
+[Rainfall in Haryana Analysis (Excel)-  Data Analysis, Dashboard| Analysis of district-wise monthly average rainfall in Haryana for the year 2012 using Excel.
+  
+ 
+
  
 
