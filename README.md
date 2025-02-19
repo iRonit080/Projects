@@ -10,7 +10,7 @@
 # Excel
 | Project Name | Area | Description | Tools and Functions |  
 |---|---|---|---|
-|[Rainfall Haryana Analysis](https://github.com/iRonit080/Projects)|Data Analysis, Dashboard | Analysis of district-wise monthly average rainfall in Haryana for the year 2012 ![img1](https://github.com/iRonit080/Projects/Screenshots\report.png)| Pivot Table, Charts, Maps, Slicers, Data Validation
+|[Rainfall Haryana Analysis](https://github.com/iRonit080/Projects)|Data Analysis, Dashboard | Analysis of district-wise monthly average rainfall in Haryana for the year 2012 ![img1](https://github.com/iRonit080/Projects/blob/main/Screenshots\report.png)| Pivot Table, Charts, Maps, Slicers, Data Validation
 |[Puma Dashboard](https://github.com/iRonit080/Projects)|Data Analysis, Dashboard | Puma Sales Dashboard designed for tracking sales performance, revenue trends, and product insights. Featuring interactive visuals, pivot tables, and data analysis tools, this dashboard provides a comprehensive view of Puma's business metrics for better decision-making. | Pivot Tables, Charts.
 # PowerBI
 | Project Name | Description | Tools 
