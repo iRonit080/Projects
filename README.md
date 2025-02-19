@@ -13,8 +13,8 @@
 |[Puma Dashboard]-|Data Analysis, Dashboard | Puma Sales Dashboard designed for tracking sales performance, revenue trends, and product insights. Featuring interactive visuals, pivot tables, and data analysis tools, this dashboard provides a comprehensive view of Puma's business metrics for better decision-making. | Pivot Tables, Charts.
 # PowerBI
 | Project Name | Description | Tools 
-|---|---|
-| [Super Store sales Dashboard]- | superstore Sales data. The dashboard offers comprehensive insights into key performance indicators such as total sales, profit trends, shipping methods, sales by region, and category performance. Using dynamic visuals, this analysis helps businesses understand their sales trends and make data-driven decisions to optimize revenue and customer satisfaction.| Power Query Edito, DAX (Data Analysis Expressions), charts| 
+|---|---|---|
+| [Super Store sales Dashboard]-| superstore Sales data. The dashboard offers comprehensive insights into key performance indicators such as total sales, profit trends, shipping methods, sales by region, and category performance. Using dynamic visuals, this analysis helps businesses understand their sales trends and make data-driven decisions to optimize revenue and customer satisfaction.| Power Query Edito, DAX (Data Analysis Expressions), charts| 
 
   
  
