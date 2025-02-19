@@ -17,6 +17,12 @@
 |---|---|---|
 | [Super Store sales Dashboard]-| superstore Sales data. The dashboard offers comprehensive insights into key performance indicators such as total sales, profit trends, shipping methods, sales by region, and category performance. Using dynamic visuals, this analysis helps businesses understand their sales trends and make data-driven decisions to optimize revenue and customer satisfaction.| Power Query Edito, DAX (Data Analysis Expressions), charts|
 |[Madhav E-commerce Sales Dashboard]-| The Madhav E-commerce Sales Dashboard is designed to provide a comprehensive and interactive analysis of online sales across India. This Power BI dashboard helps track key business metrics such as total sales, revenue trends, order distribution, profit margins, sales by category, regional performance, and payment methods.| Charts, Power Query Editor,Filters & Slicers 
+# Python 
+#### Skills: Data Cleaning, Data Visualization, Exploratory Data Analysis
+#### Libraries: Pandas, Seaborn, Numpy, Matplotlib
+| Project Name | Area | Description | Libraries |    
+|---|---|---|---|
+|[Netflix Data Analysis]-|Exploratory Data Analysis and Data Visualization| Main aim of this project was to explore and analyzes Movies vs. TV Shows, common content ratings, yearly trends, top genres, leading directors, and countries producing Netflix content. Data visualizations reveal patterns in Netflix’s content strategy.|Pandas, Matplotlib, and Seaborn|
 
   
  
