@@ -9,7 +9,8 @@
 # Excel
 | Project Name | Area | Description | Tools and Functions |  
 |---|---|---|---|
-|[Rainfall in Haryana Analysis]-|Data Analysis, Dashboard | Analysis of district-wise monthly average rainfall in Haryana for the year 2012 using Excel.| Pivot Table, Charts, Maps, Slicers, Data Validation
+|[Rainfall Haryana Analysis]-|Data Analysis, Dashboard | Analysis of district-wise monthly average rainfall in Haryana for the year 2012.| Pivot Table, Charts, Maps, Slicers, Data Validation
+|[Puma Dashboard]-|Data Analysis, Dashboard | Puma Sales Dashboard designed for tracking sales performance, revenue trends, and product insights. Featuring interactive visuals, pivot tables, and data analysis tools, this dashboard provides a comprehensive view of Puma's business metrics for better decision-making. | Pivot Tables, Charts.
   
  
 
