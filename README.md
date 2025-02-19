@@ -3,6 +3,6 @@
 ### Welcome to my Data Analytics Portfolio 🙌🏽
 ### Here I provide a brief explanation to all of my data analytics projects
 ## 📚 Table of Contents
- -[Excel](#excel)
--[PowerBI](#powerbi)
--[Python](#python)
+ - [Excel] (#excel)
+- [PowerBI] (#powerbi)
+- [Python] ( #python)
