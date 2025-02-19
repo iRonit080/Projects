@@ -14,7 +14,7 @@
 # PowerBI
 | Project Name | Description | Tools 
 |---|---|
-| [Super Store sales Dashboard]- | uperstore Sales data. The dashboard offers comprehensive insights into key performance indicators such as total sales, profit trends, shipping methods, sales by region, and category performance. Using dynamic visuals, this analysis helps businesses understand their sales trends and make data-driven decisions to optimize revenue and customer satisfaction.| Power Query Edito, DAX (Data Analysis Expressions), charts, 
+| [Super Store sales Dashboard]- | superstore Sales data. The dashboard offers comprehensive insights into key performance indicators such as total sales, profit trends, shipping methods, sales by region, and category performance. Using dynamic visuals, this analysis helps businesses understand their sales trends and make data-driven decisions to optimize revenue and customer satisfaction.| Power Query Edito, DAX (Data Analysis Expressions), charts| 
 
   
  
